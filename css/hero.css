@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+header {
+  background-color: dimgrey;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+header h1 {
+  color: white;
+  font-size: 50px;
+}
+
+header img {
+  border-radius: 175px;
+  width: 300px;
+  border: 20px solid white;
+}
+
+main p {
+  font-family: "Indie Flower", cursive;
+  font-weight: bold;
+}
+
+h1,
+h2 {
+  font-family: "Sriracha", cursive;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+main img {
+  max-width: 100%;
+}
+
+h2 {
+  font-size: 30px;
+  color: dimgrey;
+  margin: 40px 0 10px;
+}
+
+footer {
+  background-color: dimgrey;
+  text-align: center;
+  color: white;
+  padding: 25px;
+}
+
+footer p {
+  margin: 0;
+}
+
+p.caption {
+  color: #999999;
+  font-style: italic;
+  margin-top: 0;
+}
